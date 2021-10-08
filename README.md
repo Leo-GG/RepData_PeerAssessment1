@@ -1,3 +1,5 @@
+This is my submission for the first peer-reviewed assignment from the "Reproducible Research" course at Coursera. Below are the original instructions for the assignment.
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
