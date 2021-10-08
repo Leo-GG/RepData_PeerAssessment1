@@ -1,4 +1,4 @@
-This is my submission for the first peer-reviewed assignment from the "Reproducible Research" course at Coursera. Below are the original instructions for the assignment.
+This is my submission for the first peer-reviewed assignment from the "Reproducible Research" course from Coursera. Below are the original instructions for the assignment.
 
 ## Introduction
 
